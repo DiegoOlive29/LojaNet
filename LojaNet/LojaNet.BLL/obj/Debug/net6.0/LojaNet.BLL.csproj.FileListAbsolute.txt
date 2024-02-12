@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\bin\Debug\net6.0\LojaNet.BLL.deps.json
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\bin\Debug\net6.0\LojaNet.BLL.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\bin\Debug\net6.0\LojaNet.BLL.pdb
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\obj\Debug\net6.0\LojaNet.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\obj\Debug\net6.0\LojaNet.BLL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\obj\Debug\net6.0\LojaNet.BLL.AssemblyInfo.cs
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\obj\Debug\net6.0\LojaNet.BLL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\obj\Debug\net6.0\LojaNet.BLL.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\obj\Debug\net6.0\refint\LojaNet.BLL.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\obj\Debug\net6.0\LojaNet.BLL.pdb
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.BLL\obj\Debug\net6.0\ref\LojaNet.BLL.dll
