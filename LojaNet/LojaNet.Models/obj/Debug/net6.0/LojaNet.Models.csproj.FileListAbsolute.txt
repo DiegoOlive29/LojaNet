@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\bin\Debug\net6.0\LojaNet.Models.deps.json
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\bin\Debug\net6.0\LojaNet.Models.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\bin\Debug\net6.0\LojaNet.Models.pdb
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net6.0\LojaNet.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net6.0\LojaNet.Models.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net6.0\LojaNet.Models.AssemblyInfo.cs
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net6.0\LojaNet.Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net6.0\LojaNet.Models.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net6.0\refint\LojaNet.Models.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net6.0\LojaNet.Models.pdb
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Models\obj\Debug\net6.0\ref\LojaNet.Models.dll

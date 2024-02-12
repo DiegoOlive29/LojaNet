@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LojaNet.DAL/1.0.0": {
+        "dependencies": {
+          "LojaNet.Models": "1.0.0"
+        },
+        "runtime": {
+          "LojaNet.DAL.dll": {}
+        }
+      },
+      "LojaNet.Models/1.0.0": {
+        "runtime": {
+          "LojaNet.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LojaNet.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LojaNet.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

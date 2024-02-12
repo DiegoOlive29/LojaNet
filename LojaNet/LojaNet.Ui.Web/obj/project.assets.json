@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "LojaNet.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LojaNet.DAL": "1.0.0",
+          "LojaNet.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LojaNet.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LojaNet.BLL.dll": {}
+        }
+      },
+      "LojaNet.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "LojaNet.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LojaNet.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LojaNet.DAL.dll": {}
+        }
+      },
+      "LojaNet.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LojaNet.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LojaNet.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LojaNet.BLL/1.0.0": {
+      "type": "project",
+      "path": "../LojaNet.BLL/LojaNet.BLL.csproj",
+      "msbuildProject": "../LojaNet.BLL/LojaNet.BLL.csproj"
+    },
+    "LojaNet.DAL/1.0.0": {
+      "type": "project",
+      "path": "../LojaNet.DAL/LojaNet.DAL.csproj",
+      "msbuildProject": "../LojaNet.DAL/LojaNet.DAL.csproj"
+    },
+    "LojaNet.Models/1.0.0": {
+      "type": "project",
+      "path": "../LojaNet.Models/LojaNet.Models.csproj",
+      "msbuildProject": "../LojaNet.Models/LojaNet.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "LojaNet.BLL >= 1.0.0",
+      "LojaNet.DAL >= 1.0.0",
+      "LojaNet.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\USER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.Ui.Web\\LojaNet.Ui.Web.csproj",
+      "projectName": "LojaNet.Ui.Web",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.Ui.Web\\LojaNet.Ui.Web.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.Ui.Web\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.BLL\\LojaNet.BLL.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.BLL\\LojaNet.BLL.csproj"
+            },
+            "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.DAL\\LojaNet.DAL.csproj"
+            },
+            "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj": {
+              "projectPath": "C:\\Users\\USER\\source\\repos\\LojaNet\\LojaNet\\LojaNet.Models\\LojaNet.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

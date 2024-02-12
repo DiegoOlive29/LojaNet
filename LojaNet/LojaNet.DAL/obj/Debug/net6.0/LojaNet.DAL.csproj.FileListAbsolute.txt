@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net6.0\LojaNet.DAL.deps.json
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net6.0\LojaNet.DAL.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net6.0\LojaNet.DAL.pdb
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net6.0\LojaNet.Models.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\bin\Debug\net6.0\LojaNet.Models.pdb
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\LojaNet.DAL.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\LojaNet.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\LojaNet.DAL.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\LojaNet.DAL.AssemblyInfo.cs
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\LojaNet.DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\LojaNet.DAL.csproj.CopyComplete
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\LojaNet.DAL.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\refint\LojaNet.DAL.dll
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\LojaNet.DAL.pdb
+C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.DAL\obj\Debug\net6.0\ref\LojaNet.DAL.dll
