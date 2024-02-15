@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\USER\source\repos\LojaNet\LojaNet\LojaNet.Ui.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/USER/source/repos/LojaNet/LojaNet/LojaNet.Ui.Web/Views/Cliente/Incluir.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmNsdWlyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/USER/source/repos/LojaNet/LojaNet/LojaNet.Ui.Web/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
