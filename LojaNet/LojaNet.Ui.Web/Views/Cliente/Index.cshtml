@@ -1,9 +1,32 @@
-﻿@model LojaNet.Models.Cliente
+﻿@model IEnumerable<LojaNet.Models.Cliente>
 
 @{
     ViewBag.Title = "Index";
 
 }
 <h2>Cliente</h2>
+<p>
+    <a class="btn btn-info" href="/Cliente/Incluir">Novo</a>
+</p>
 
-<a class="btn btn-info" href="/Cliente/Incluir">Novo</a>
+<table class="table">
+
+    <tr>
+    <th>Nome</th>
+    <td>Email</td>
+    <tr/>
+
+    @foreach(var cliente in Model)
+        {
+            <tr>
+                <td>
+                    @cliente.Nome
+                </td>
+                <td>
+                    @cliente.Email
+
+                </td>
+            </tr> 
+        }
+
+</table>
